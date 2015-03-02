@@ -29,7 +29,7 @@ You can place the platform on your web host by:
   option. If you've uploaded the files inside the archive to your web host, you can skip to the configuration section
   of these documents, below.
 * Git clone the repository to an appropriate directory (or just straight into the folder root of your web host). You
-  can also grab the master zip file from `the Known git repository <https://github.com/idno/idno>`_.
+  can also grab the master zip file from `the Known git repository <https://github.com/idno/Known>`_.
 * If you git cloned the repository to your local disk, use a file transfer app to move the files to your web host.
 
 Explaining how to use Git is beyond the scope of this tutorial, but there are plenty of great tutorials on the web. 
